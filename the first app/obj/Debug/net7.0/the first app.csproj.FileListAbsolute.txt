@@ -1,0 +1,14 @@
+D:\C#\the first app\bin\Debug\net7.0\the first app.exe
+D:\C#\the first app\bin\Debug\net7.0\the first app.deps.json
+D:\C#\the first app\bin\Debug\net7.0\the first app.runtimeconfig.json
+D:\C#\the first app\bin\Debug\net7.0\the first app.dll
+D:\C#\the first app\bin\Debug\net7.0\the first app.pdb
+D:\C#\the first app\obj\Debug\net7.0\the first app.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\the first app\obj\Debug\net7.0\the first app.AssemblyInfoInputs.cache
+D:\C#\the first app\obj\Debug\net7.0\the first app.AssemblyInfo.cs
+D:\C#\the first app\obj\Debug\net7.0\the first app.csproj.CoreCompileInputs.cache
+D:\C#\the first app\obj\Debug\net7.0\the first app.dll
+D:\C#\the first app\obj\Debug\net7.0\refint\the first app.dll
+D:\C#\the first app\obj\Debug\net7.0\the first app.pdb
+D:\C#\the first app\obj\Debug\net7.0\the first app.genruntimeconfig.cache
+D:\C#\the first app\obj\Debug\net7.0\ref\the first app.dll

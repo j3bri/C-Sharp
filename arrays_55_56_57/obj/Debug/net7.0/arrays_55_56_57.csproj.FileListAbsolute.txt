@@ -1,0 +1,14 @@
+D:\C#\arrays_55_56_57\bin\Debug\net7.0\arrays_55_56_57.exe
+D:\C#\arrays_55_56_57\bin\Debug\net7.0\arrays_55_56_57.deps.json
+D:\C#\arrays_55_56_57\bin\Debug\net7.0\arrays_55_56_57.runtimeconfig.json
+D:\C#\arrays_55_56_57\bin\Debug\net7.0\arrays_55_56_57.dll
+D:\C#\arrays_55_56_57\bin\Debug\net7.0\arrays_55_56_57.pdb
+D:\C#\arrays_55_56_57\obj\Debug\net7.0\arrays_55_56_57.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\arrays_55_56_57\obj\Debug\net7.0\arrays_55_56_57.AssemblyInfoInputs.cache
+D:\C#\arrays_55_56_57\obj\Debug\net7.0\arrays_55_56_57.AssemblyInfo.cs
+D:\C#\arrays_55_56_57\obj\Debug\net7.0\arrays_55_56_57.csproj.CoreCompileInputs.cache
+D:\C#\arrays_55_56_57\obj\Debug\net7.0\arrays_55_56_57.dll
+D:\C#\arrays_55_56_57\obj\Debug\net7.0\refint\arrays_55_56_57.dll
+D:\C#\arrays_55_56_57\obj\Debug\net7.0\arrays_55_56_57.pdb
+D:\C#\arrays_55_56_57\obj\Debug\net7.0\arrays_55_56_57.genruntimeconfig.cache
+D:\C#\arrays_55_56_57\obj\Debug\net7.0\ref\arrays_55_56_57.dll

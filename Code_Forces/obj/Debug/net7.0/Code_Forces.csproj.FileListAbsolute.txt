@@ -1,0 +1,14 @@
+D:\C#\Code_Forces\bin\Debug\net7.0\Code_Forces.exe
+D:\C#\Code_Forces\bin\Debug\net7.0\Code_Forces.deps.json
+D:\C#\Code_Forces\bin\Debug\net7.0\Code_Forces.runtimeconfig.json
+D:\C#\Code_Forces\bin\Debug\net7.0\Code_Forces.dll
+D:\C#\Code_Forces\bin\Debug\net7.0\Code_Forces.pdb
+D:\C#\Code_Forces\obj\Debug\net7.0\Code_Forces.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Code_Forces\obj\Debug\net7.0\Code_Forces.AssemblyInfoInputs.cache
+D:\C#\Code_Forces\obj\Debug\net7.0\Code_Forces.AssemblyInfo.cs
+D:\C#\Code_Forces\obj\Debug\net7.0\Code_Forces.csproj.CoreCompileInputs.cache
+D:\C#\Code_Forces\obj\Debug\net7.0\Code_Forces.dll
+D:\C#\Code_Forces\obj\Debug\net7.0\refint\Code_Forces.dll
+D:\C#\Code_Forces\obj\Debug\net7.0\Code_Forces.pdb
+D:\C#\Code_Forces\obj\Debug\net7.0\Code_Forces.genruntimeconfig.cache
+D:\C#\Code_Forces\obj\Debug\net7.0\ref\Code_Forces.dll

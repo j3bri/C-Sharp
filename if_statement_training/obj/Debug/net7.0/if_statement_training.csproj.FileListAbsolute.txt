@@ -1,0 +1,14 @@
+D:\C#\if_statement_training\bin\Debug\net7.0\if_statement_training.exe
+D:\C#\if_statement_training\bin\Debug\net7.0\if_statement_training.deps.json
+D:\C#\if_statement_training\bin\Debug\net7.0\if_statement_training.runtimeconfig.json
+D:\C#\if_statement_training\bin\Debug\net7.0\if_statement_training.dll
+D:\C#\if_statement_training\bin\Debug\net7.0\if_statement_training.pdb
+D:\C#\if_statement_training\obj\Debug\net7.0\if_statement_training.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\if_statement_training\obj\Debug\net7.0\if_statement_training.AssemblyInfoInputs.cache
+D:\C#\if_statement_training\obj\Debug\net7.0\if_statement_training.AssemblyInfo.cs
+D:\C#\if_statement_training\obj\Debug\net7.0\if_statement_training.csproj.CoreCompileInputs.cache
+D:\C#\if_statement_training\obj\Debug\net7.0\if_statement_training.dll
+D:\C#\if_statement_training\obj\Debug\net7.0\refint\if_statement_training.dll
+D:\C#\if_statement_training\obj\Debug\net7.0\if_statement_training.pdb
+D:\C#\if_statement_training\obj\Debug\net7.0\if_statement_training.genruntimeconfig.cache
+D:\C#\if_statement_training\obj\Debug\net7.0\ref\if_statement_training.dll

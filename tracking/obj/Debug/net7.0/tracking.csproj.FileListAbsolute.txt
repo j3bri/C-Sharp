@@ -1,0 +1,14 @@
+D:\C#\tracking\bin\Debug\net7.0\tracking.exe
+D:\C#\tracking\bin\Debug\net7.0\tracking.deps.json
+D:\C#\tracking\bin\Debug\net7.0\tracking.runtimeconfig.json
+D:\C#\tracking\bin\Debug\net7.0\tracking.dll
+D:\C#\tracking\bin\Debug\net7.0\tracking.pdb
+D:\C#\tracking\obj\Debug\net7.0\tracking.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\tracking\obj\Debug\net7.0\tracking.AssemblyInfoInputs.cache
+D:\C#\tracking\obj\Debug\net7.0\tracking.AssemblyInfo.cs
+D:\C#\tracking\obj\Debug\net7.0\tracking.csproj.CoreCompileInputs.cache
+D:\C#\tracking\obj\Debug\net7.0\tracking.dll
+D:\C#\tracking\obj\Debug\net7.0\refint\tracking.dll
+D:\C#\tracking\obj\Debug\net7.0\tracking.pdb
+D:\C#\tracking\obj\Debug\net7.0\tracking.genruntimeconfig.cache
+D:\C#\tracking\obj\Debug\net7.0\ref\tracking.dll

@@ -1,0 +1,14 @@
+D:\C#\foreach_59\bin\Debug\net7.0\foreach_59.exe
+D:\C#\foreach_59\bin\Debug\net7.0\foreach_59.deps.json
+D:\C#\foreach_59\bin\Debug\net7.0\foreach_59.runtimeconfig.json
+D:\C#\foreach_59\bin\Debug\net7.0\foreach_59.dll
+D:\C#\foreach_59\bin\Debug\net7.0\foreach_59.pdb
+D:\C#\foreach_59\obj\Debug\net7.0\foreach_59.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\foreach_59\obj\Debug\net7.0\foreach_59.AssemblyInfoInputs.cache
+D:\C#\foreach_59\obj\Debug\net7.0\foreach_59.AssemblyInfo.cs
+D:\C#\foreach_59\obj\Debug\net7.0\foreach_59.csproj.CoreCompileInputs.cache
+D:\C#\foreach_59\obj\Debug\net7.0\foreach_59.dll
+D:\C#\foreach_59\obj\Debug\net7.0\refint\foreach_59.dll
+D:\C#\foreach_59\obj\Debug\net7.0\foreach_59.pdb
+D:\C#\foreach_59\obj\Debug\net7.0\foreach_59.genruntimeconfig.cache
+D:\C#\foreach_59\obj\Debug\net7.0\ref\foreach_59.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bI6ArZSbFE08QXFhxNbq0g4RV8s3PMoTzLh8237UCBVhIlmhzgEg97jx0d4bVxh9J/XFiUYmvt01kfyzx8bHZg==",
+  "success": true,
+  "projectFilePath": "d:\\C#\\CSS_Compiler\\CSS_Compiler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omare\\.nuget\\packages\\htmlagilitypack\\1.11.53\\htmlagilitypack.1.11.53.nupkg.sha512"
+  ],
+  "logs": []
+}

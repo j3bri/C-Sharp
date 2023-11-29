@@ -1,0 +1,14 @@
+D:\C#\parallelogram area\bin\Debug\net7.0\parallelogram area.exe
+D:\C#\parallelogram area\bin\Debug\net7.0\parallelogram area.deps.json
+D:\C#\parallelogram area\bin\Debug\net7.0\parallelogram area.runtimeconfig.json
+D:\C#\parallelogram area\bin\Debug\net7.0\parallelogram area.dll
+D:\C#\parallelogram area\bin\Debug\net7.0\parallelogram area.pdb
+D:\C#\parallelogram area\obj\Debug\net7.0\parallelogram area.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\parallelogram area\obj\Debug\net7.0\parallelogram area.AssemblyInfoInputs.cache
+D:\C#\parallelogram area\obj\Debug\net7.0\parallelogram area.AssemblyInfo.cs
+D:\C#\parallelogram area\obj\Debug\net7.0\parallelogram area.csproj.CoreCompileInputs.cache
+D:\C#\parallelogram area\obj\Debug\net7.0\parallelogram area.dll
+D:\C#\parallelogram area\obj\Debug\net7.0\refint\parallelogram area.dll
+D:\C#\parallelogram area\obj\Debug\net7.0\parallelogram area.pdb
+D:\C#\parallelogram area\obj\Debug\net7.0\parallelogram area.genruntimeconfig.cache
+D:\C#\parallelogram area\obj\Debug\net7.0\ref\parallelogram area.dll

@@ -1,0 +1,17 @@
+D:\C#\CSS_Compiler\bin\Debug\net7.0\CSS_Compiler.exe
+D:\C#\CSS_Compiler\bin\Debug\net7.0\CSS_Compiler.deps.json
+D:\C#\CSS_Compiler\bin\Debug\net7.0\CSS_Compiler.runtimeconfig.json
+D:\C#\CSS_Compiler\bin\Debug\net7.0\CSS_Compiler.dll
+D:\C#\CSS_Compiler\bin\Debug\net7.0\CSS_Compiler.pdb
+D:\C#\CSS_Compiler\obj\Debug\net7.0\CSS_Compiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CSS_Compiler\obj\Debug\net7.0\CSS_Compiler.AssemblyInfoInputs.cache
+D:\C#\CSS_Compiler\obj\Debug\net7.0\CSS_Compiler.AssemblyInfo.cs
+D:\C#\CSS_Compiler\obj\Debug\net7.0\CSS_Compiler.csproj.CoreCompileInputs.cache
+D:\C#\CSS_Compiler\obj\Debug\net7.0\CSS_Compiler.dll
+D:\C#\CSS_Compiler\obj\Debug\net7.0\refint\CSS_Compiler.dll
+D:\C#\CSS_Compiler\obj\Debug\net7.0\CSS_Compiler.pdb
+D:\C#\CSS_Compiler\obj\Debug\net7.0\CSS_Compiler.genruntimeconfig.cache
+D:\C#\CSS_Compiler\obj\Debug\net7.0\ref\CSS_Compiler.dll
+D:\C#\CSS_Compiler\bin\Debug\net7.0\HtmlAgilityPack.dll
+D:\C#\CSS_Compiler\obj\Debug\net7.0\CSS_Compiler.csproj.AssemblyReference.cache
+D:\C#\CSS_Compiler\obj\Debug\net7.0\CSS_Compiler.csproj.CopyComplete

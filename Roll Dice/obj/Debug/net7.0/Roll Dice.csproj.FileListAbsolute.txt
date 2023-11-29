@@ -1,0 +1,14 @@
+D:\C#\Roll Dice\bin\Debug\net7.0\Roll Dice.exe
+D:\C#\Roll Dice\bin\Debug\net7.0\Roll Dice.deps.json
+D:\C#\Roll Dice\bin\Debug\net7.0\Roll Dice.runtimeconfig.json
+D:\C#\Roll Dice\bin\Debug\net7.0\Roll Dice.dll
+D:\C#\Roll Dice\bin\Debug\net7.0\Roll Dice.pdb
+D:\C#\Roll Dice\obj\Debug\net7.0\Roll Dice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Roll Dice\obj\Debug\net7.0\Roll Dice.AssemblyInfoInputs.cache
+D:\C#\Roll Dice\obj\Debug\net7.0\Roll Dice.AssemblyInfo.cs
+D:\C#\Roll Dice\obj\Debug\net7.0\Roll Dice.csproj.CoreCompileInputs.cache
+D:\C#\Roll Dice\obj\Debug\net7.0\Roll Dice.dll
+D:\C#\Roll Dice\obj\Debug\net7.0\refint\Roll Dice.dll
+D:\C#\Roll Dice\obj\Debug\net7.0\Roll Dice.pdb
+D:\C#\Roll Dice\obj\Debug\net7.0\Roll Dice.genruntimeconfig.cache
+D:\C#\Roll Dice\obj\Debug\net7.0\ref\Roll Dice.dll

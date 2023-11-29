@@ -1,0 +1,14 @@
+D:\C#\WriteLine1\bin\Debug\net7.0\WriteLine1.exe
+D:\C#\WriteLine1\bin\Debug\net7.0\WriteLine1.deps.json
+D:\C#\WriteLine1\bin\Debug\net7.0\WriteLine1.runtimeconfig.json
+D:\C#\WriteLine1\bin\Debug\net7.0\WriteLine1.dll
+D:\C#\WriteLine1\bin\Debug\net7.0\WriteLine1.pdb
+D:\C#\WriteLine1\obj\Debug\net7.0\WriteLine1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WriteLine1\obj\Debug\net7.0\WriteLine1.AssemblyInfoInputs.cache
+D:\C#\WriteLine1\obj\Debug\net7.0\WriteLine1.AssemblyInfo.cs
+D:\C#\WriteLine1\obj\Debug\net7.0\WriteLine1.csproj.CoreCompileInputs.cache
+D:\C#\WriteLine1\obj\Debug\net7.0\WriteLine1.dll
+D:\C#\WriteLine1\obj\Debug\net7.0\refint\WriteLine1.dll
+D:\C#\WriteLine1\obj\Debug\net7.0\WriteLine1.pdb
+D:\C#\WriteLine1\obj\Debug\net7.0\WriteLine1.genruntimeconfig.cache
+D:\C#\WriteLine1\obj\Debug\net7.0\ref\WriteLine1.dll
